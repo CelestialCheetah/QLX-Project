@@ -1,2 +1,2 @@
 # QLX-Project
-A simple Project with basic analysis/line regression
+A simple Project with basic analysis/linear regression
