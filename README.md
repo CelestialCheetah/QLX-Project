@@ -12,14 +12,17 @@ pasting was part of that. Overall I learned a good bit and sometimes simpler can
 
 # Attendance numbers
 Here are the attendance numbers I gathered. I wish I could have added more values overall, but my copy and paste method has its faults haha.
+
 ![QLX project pic of attendance numbers](https://user-images.githubusercontent.com/53583290/110194906-1e1db180-7e09-11eb-86da-aff582488f3b.PNG)
 
 # Heatmap 
 Here is a heatmap, it is in a 1:1 ratio since the predictive side of the project did not go as smoothly as I wanted.
+
 ![QLX project heat map](https://user-images.githubusercontent.com/53583290/110194946-558c5e00-7e09-11eb-903a-e3c673e4d6a0.PNG)
 
-# Actaul vs Predcited
+# __Actaul vs Predcited__
 Again this will be a 1:1 ratio, more importantly for me is that I got the code correct.
+
 ![QLX project actual vs predicted](https://user-images.githubusercontent.com/53583290/110194964-7bb1fe00-7e09-11eb-8a6f-c01702ab1c40.PNG)
 
 <!--# Actual vs Predicted */
