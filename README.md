@@ -2,7 +2,15 @@
 A simple Project with basic analysis/linear regression.
 
 ```python:
-Pandas as pd
+import numpy as np
+import pandas as pd
+import re 
+import seaborn as sns
+from matplotlib import pyplot as plt
+from sklearn import datasets, linear_model
+from sklearn import preprocessing
+from sklearn.model_selection import train_test_split
+from sklearn.feature_selection import RFE
 ```
 
 This was a project I chose since it best alligned with my career goals. It is a analytics project where I attmpted to solve the problem of futures sales of sports tickest 
