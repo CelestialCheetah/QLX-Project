@@ -8,4 +8,4 @@ A simple Project with basic analysis/linear regression.
 
 ![QLX project actual vs predicted](https://user-images.githubusercontent.com/53583290/110194964-7bb1fe00-7e09-11eb-8a6f-c01702ab1c40.PNG)
 
-<img src="https://user-images.githubusercontent.com/53583290/110194964-7bb1fe00-7e09-11eb-8a6f-c01702ab1c40.PNG" height="500", width="500" />
+<img src="https://user-images.githubusercontent.com/53583290/110194964-7bb1fe00-7e09-11eb-8a6f-c01702ab1c40.PNG" height="250" width="250" />
