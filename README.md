@@ -2,7 +2,8 @@
 A simple Project with basic analysis/linear regression.
 
 ```python:
-Pandas
+Pandas as pd
+```
 
 This was a project I chose since it best alligned with my career goals. It is a analytics project where I attmpted to solve the problem of futures sales of sports tickest 
 post Covid. I had a few issues along the way that were not the issues I had expected, but I did have issues that I also expected as well!
