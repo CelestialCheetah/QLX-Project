@@ -11,7 +11,7 @@ Some values were made into integers while others were made into comments. I am n
 pasting was part of that. Overall I learned a good bit and sometimes simpler can be better.
 
 # Attendance numbers
-Here are the attendance numbers I gathered
+Here are the attendance numbers I gathered. I wish I could have added more values overall, but my copy and paste method has its faults haha.
 ![QLX project pic of attendance numbers](https://user-images.githubusercontent.com/53583290/110194906-1e1db180-7e09-11eb-86da-aff582488f3b.PNG)
 
 # Heatmap 
