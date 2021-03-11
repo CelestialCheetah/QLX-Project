@@ -1,12 +1,7 @@
 # QLX-Project
 A simple Project with basic analysis/linear regression.
-
+Here are some of the main pieces of code that had helped me create the regression analysis.
 ```python:
-import numpy as np
-import pandas as pd
-import re 
-import seaborn as sns
-from matplotlib import pyplot as plt
 from sklearn import datasets, linear_model
 from sklearn import preprocessing
 from sklearn.model_selection import train_test_split
